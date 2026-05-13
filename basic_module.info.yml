@@ -1,0 +1,5 @@
+name: 'Basic Module'
+type: module
+description: 'A basic module.'
+package: Custom
+core_version_requirement: ^10 || ^11
