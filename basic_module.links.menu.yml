@@ -4,5 +4,5 @@ basic_module.menu:
   route_name: basic_module.form
   menu_name: main
   parent: system.admin
-  weight: 0
+  weight: -18
 
