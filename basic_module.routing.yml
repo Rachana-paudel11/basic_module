@@ -5,3 +5,12 @@ basic_module.page:
     _title: 'Basic Module Page'
   requirements:
     _permission: 'access content'
+
+basic_module.form:
+  path: '/basic-module/form'
+  defaults:
+    _form: '\Drupal\basic_module\Form\BasicModuleForm'
+    _title: 'Basic Form'
+  requirements:
+    _permission: 'access content'
+
