@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 basic_module.menu:
   title: 'Basic Module'
   description: 'Basic Module'
@@ -5,3 +6,6 @@ basic_module.menu:
   menu_name: main
   parent: system.admin
   weight: 0
+=======
+
+>>>>>>> Stashed changes

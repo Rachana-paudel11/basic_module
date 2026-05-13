@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <?php
 
 namespace Drupal\basic_module\Form;
@@ -46,3 +47,5 @@ class BasicModuleForm extends FormBase {
   }
 
 }
+=======
+>>>>>>> Stashed changes

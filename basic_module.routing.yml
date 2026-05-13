@@ -12,5 +12,9 @@ basic_module.form:
     _form: '\Drupal\basic_module\Form\BasicModuleForm'
     _title: 'Basic Form'
   requirements:
+<<<<<<< Updated upstream
     _permission: 'access content'
 
+=======
+    _permission: 'access content'
+>>>>>>> Stashed changes
