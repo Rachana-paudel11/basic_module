@@ -18,10 +18,15 @@ function basic_module_schema() {
         'length' => 255,
         'not null' => TRUE,
       ],
+      'image' => [
+        'type' => 'int',
+        'not null' => FALSE,
+      ],
       'description' => [
         'type' => 'text',
         'not null' => FALSE,
       ],
+      
     ],
     'primary key' => ['id'],
   ];
